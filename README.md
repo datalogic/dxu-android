@@ -1,4 +1,4 @@
-# dxu-android
+# DXU Android
 
 DXU Android is an application designed to work with [DXU Desktop](https://github.com/datalogic/dxu).
 
