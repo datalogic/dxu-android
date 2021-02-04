@@ -8,4 +8,4 @@ DXU Android is an application designed to work with [DXU Desktop](https://github
 
 ## Documentation
 
-* Documentation for latest DXU Android version is available [here](https://datalogic.github.io/dxu/overview#dxu-agent-android).
+* Documentation for latest DXU Android version is available [here](https://datalogic.github.io/dxu/android).
